@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388624696060",
+    "firebase_url": "https://midterm-dropbox.firebaseio.com",
+    "project_id": "midterm-dropbox",
+    "storage_bucket": "midterm-dropbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388624696060:android:2ed14811b7a9c715fecd79",
+        "android_client_info": {
+          "package_name": "vn.edu.usth.dropbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388624696060-fn5qagcrm71ohddch6d0576o3rh3vjtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.usth.dropbox",
+            "certificate_hash": "1121763de37987f6ca323bb385c9d03c23337e04"
+          }
+        },
+        {
+          "client_id": "388624696060-33p4lviek0agjqo3iu65hn6mfcaokh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChBi8wFwA-i7ZaGqQQSSJ3MZ7GeOk15g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388624696060-33p4lviek0agjqo3iu65hn6mfcaokh4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
