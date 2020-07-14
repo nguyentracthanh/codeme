@@ -5,28 +5,19 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.widget.ImageView;
 
-import com.bumptech.glide.Glide;
 import com.tuandm.codeme.R;
 import com.tuandm.codeme.database.RealmContext;
 import com.tuandm.codeme.model.response.UserInfo;
 import com.tuandm.codeme.view.authen.AuthenActivity;
 import com.tuandm.codeme.view.home.HomeActivity;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-
 public class SplashActivity extends AppCompatActivity {
-    @BindView(R.id.img_splash)
-    ImageView splashImg;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        ButterKnife.bind(splashImg);
-        Glide.with(this).load(R.drawable.app_logo).into(splashImg);
-
     }
 
     @Override

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CodeMe</string>
+    <string name="FACEBOOK_APP_ID">1126342357575763</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">8c37f52e47df928a090906ae108876ad</string>
+
+    // login
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="or">OR</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="comment">Viết bình luận…</string>
+
+    <!--Login Activity-->
+    <string name="str_copyright">Copyright 2019 by TRIP.vn</string>
+    <string name="str_sign_up">Đăng ký</string>
+    <string name="str_forgot_password">Quên mật khẩu?</string>
+    <string name="str_sign_in_with_google">Sign in with Google</string>
+    <string name="str_sign_in">Đăng nhập</string>
+    <string name="str_password">Mật khẩu</string>
+    <string name="str_account">Tài khoản</string>
+    <string name="str_email">Email</string>
+    <string name="str_login_with_account">Đăng nhập tài khoản</string>
+    <string name="str_register_account">Đăng ký tài khoản</string>
+    <string name="valid_login">Email and password must not be empty!</string>
+    <string name="login_fail">Đăng nhập thất bại! Vui lòng kiểm tra lại kết nối mạng!</string>
+    <string name="login_error">Tài khoản hoặc mật khẩu không đúng!</string>
+    <string name="login_auth">oauth2:</string>
+    <string name="str_login_email_empty">Bạn vui lòng nhập email!</string>
+    <string name="str_login_password_empty">Bạn vui lòng nhập password!!</string>
+    <string name="str_login_validate_email">Sai định đạng email!</string>
+    <string name="str_login_account">Đăng nhập tài khoản</string>
+    <string name="str_login_google">Đăng nhập bằng Google</string>
+    <string name="str_register_now">Đăng kí ngay</string>
+    <string name="str_confirm_account">Bạn chưa có tài khoản?</string>
+
+    <!--Register Activity-->
+    <string name="username_invalid">Tên đăng nhập không được để trống!</string>
+    <string name="password_invalid">Mật khẩu không được để trống!</string>
+    <string name="email_invalid">Email không được để trống!</string>
+    <string name="first_name_invalid">Tên không được để trống!</string>
+    <string name="email_format_invalid">Không đúng định dang email!</string>
+    <string name="last_name_invalid">Họ không được để trống!</string>
+    <string name="password_not_match">Mật khẩu không khớp!</string>
+    <string name="register_success">Đăng kí thành công!</string>
+    <string name="register_fail">Đăng kí thất bại! Vui lòng kiểm tra lại kết nối mạng!</string>
+    <string name="register_error">Đăng kí thất bại!</string>
+
+
+    <!--Common-->
+    <string name="processing">Đang xử lí…</string>
+    <string name="loading">Đang đồng bộ dữ liệu…</string>
+    <string name="no_data">Chưa có dữ liệu!</string>
+    <string name="network_error">Lỗi kết nối mạng!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <!--Base Activity-->
+    <string name="invalid_content">Bạn chưa nhập nội dung!</string>
+    <string name="str_login">Đăng nhập tài khoản</string>
+</resources>
